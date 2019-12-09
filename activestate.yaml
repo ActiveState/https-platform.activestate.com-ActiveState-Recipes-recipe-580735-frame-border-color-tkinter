@@ -1,6 +1,6 @@
 # Want to find out what you can do with this file? Head over to:
 # http://docs.activestate.com/platform/state/start.html
-project: https://platform.activestate.com/ActiveState-Recipes/recipe-580735-frame-border-color-tkinter?commitID=cc23d971-9d37-4a77-9099-45128c052186
+project: https://platform.activestate.com/ActiveState-Recipes/recipe-580735-frame-border-color-tkinter?commitID=d3c54017-1fe7-40c5-b42f-9f864cc20127
 scripts:
   - name: recipe
     description: Runs the recipe
